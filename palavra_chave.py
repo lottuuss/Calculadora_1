@@ -24,8 +24,9 @@ while True:
          
     if palavra_formada == palavra_secreta:
        
-        print('parabens voce ganhou')
+        print('parabens voce ganhou eba')
         print('a palavra era', palavra_secreta)
         print('tentativas', tentativas)
         letras_acertadas= ''
         tentativas = 0
+        
