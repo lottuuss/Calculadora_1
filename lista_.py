@@ -1,5 +1,4 @@
-#lista simples para aprender
-
+#lista de compras (ou do que voce quiser listar ) simples
 import os
 
 lista = []
